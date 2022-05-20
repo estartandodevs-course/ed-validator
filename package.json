@@ -1,6 +1,6 @@
 {
   "name": "ed-validator",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "meu validator",
   "main": "index.js",
   "bin": "./cli.js",
